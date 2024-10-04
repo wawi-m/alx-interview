@@ -2,6 +2,7 @@
 """Generate Pascal's Triangle based on the sum of adjacent elements."""
 
 def pascal_triangle(n):
+    """Generate Pascal's Triangle based on the sum of adjacent elements."""
     if n <= 0:
         return []
     
